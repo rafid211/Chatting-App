@@ -1,2 +1,3 @@
-# Chatting-App
-Desktop based chatting application. Voice controlled.
+# Chatting-Application
+Desktop based chatting application. 
+Voice controlled.
